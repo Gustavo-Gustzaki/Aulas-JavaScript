@@ -1,6 +1,2 @@
-if (true) {
-    let local = 'visível apenas aqui';
-    var global = 'vaza para fora';
-    console.log(local);
-  }
-  
+let dado = 'Olá'; // tipo String
+dado = 42;      // agora é Number

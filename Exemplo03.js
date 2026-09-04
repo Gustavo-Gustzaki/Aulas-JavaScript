@@ -1,6 +1,3 @@
-const nome = 'Maria';
-const msg = `Olá, ${nome}. Bem-Vinda!`;
-console.log(msg)
-
-NOME = 'joana';
-console.log(nome);
+let x = 10;
+x += 5; // x = x + 5 (resultado: 15)
+x *= 2; // x = x * 2 (resultado: 30)
