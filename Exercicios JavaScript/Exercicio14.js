@@ -4,7 +4,7 @@ const SomaPrecos = () =>{
 
     let total = 0
 
-    for (preco of precos ){
+    for (const preco of precos ){
 
         total = total + preco
 
